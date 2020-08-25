@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+  color: #fff;
+  margin-top: 8rem;
+  margin-left: 2rem;
+  font-family: monospace;
+}
+
+.drum-pad {
+  height: 100;
+  width: 100;
+  background-color: #fff;
+  opacity: 0.5;
+  margin: 1rem;
+  border: 1px solid #075867;
+}
+.clicked-pad {
+  height: 100;
+  width: 100;
+  background-color: rgb(108, 154, 255);
+  opacity: 0.5;
+  margin: 1rem;
+  border: 1px solid #075867;
+}
+
+#drum-machine {
+  width: 400px;
+}
+
+.currentDrum {
+  color: #fff;
+  text-align: center;
+  padding-right: 50px;
+}
+
+.header {
+  text-align: center;
+  padding-right: 50px;
+}
