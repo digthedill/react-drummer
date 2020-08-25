@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-drummer/static/css/main.0c4d8816.chunk.css",
+    "main.js": "/react-drummer/static/js/main.edf909bb.chunk.js",
+    "main.js.map": "/react-drummer/static/js/main.edf909bb.chunk.js.map",
+    "runtime-main.js": "/react-drummer/static/js/runtime-main.68306a22.js",
+    "runtime-main.js.map": "/react-drummer/static/js/runtime-main.68306a22.js.map",
+    "static/css/2.f3cffc9e.chunk.css": "/react-drummer/static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.6d87c83a.chunk.js": "/react-drummer/static/js/2.6d87c83a.chunk.js",
+    "static/js/2.6d87c83a.chunk.js.map": "/react-drummer/static/js/2.6d87c83a.chunk.js.map",
+    "index.html": "/react-drummer/index.html",
+    "precache-manifest.67ae8b4ff596619b298b45d35a709285.js": "/react-drummer/precache-manifest.67ae8b4ff596619b298b45d35a709285.js",
+    "service-worker.js": "/react-drummer/service-worker.js",
+    "static/css/2.f3cffc9e.chunk.css.map": "/react-drummer/static/css/2.f3cffc9e.chunk.css.map",
+    "static/css/main.0c4d8816.chunk.css.map": "/react-drummer/static/css/main.0c4d8816.chunk.css.map",
+    "static/js/2.6d87c83a.chunk.js.LICENSE.txt": "/react-drummer/static/js/2.6d87c83a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68306a22.js",
+    "static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.6d87c83a.chunk.js",
+    "static/css/main.0c4d8816.chunk.css",
+    "static/js/main.edf909bb.chunk.js"
+  ]
+}
